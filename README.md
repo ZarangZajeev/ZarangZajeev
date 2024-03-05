@@ -1,6 +1,8 @@
-# <div align="center">I'm Sarang Sajeev, a full-time full-stack freelance developer 👨‍💻</div>  
+# <div align="center">I'm a full-time full-stack freelance developer 👨‍💻</div>  
 <div display="flex">
-<div flex=" 0 0 50%" max-width=" 50%">
+<div>
+
+  
   - 🔭 I’m currently working on [Skill-Share](https://github.com/ZarangZajeev/Skill_share.git)
     
   
@@ -14,7 +16,7 @@
 </div>
 
 <div align="center" flex=" 0 0 50%" max-width=" 50%">
-    <img src="https://i.pinimg.com/originals/e0/cf/be/e0cfbe7818f6d5f7d657b17b054175d4.gif" width="30%">
+    <img src="https://i.pinimg.com/originals/b8/71/76/b8717641f46cdfdced2c86e984f07c11.gif">
 </div>
 </div>
 
