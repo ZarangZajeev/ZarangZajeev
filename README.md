@@ -19,7 +19,6 @@
 </div>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -48,7 +47,6 @@
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
@@ -59,18 +57,10 @@
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
 
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
