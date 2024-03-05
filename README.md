@@ -88,16 +88,32 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZarangZajeev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZarangZajeev&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZarangZajeev&theme=dark&hide_border=true" alt="GitHub Streak">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarangZajeev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ZarangZajeev&limit=5&theme=dark&combine_all_yearly_contributions=true">
+
+</div>
+
 
 
 ## Recent Blog Posts  
   
 
 <br/>  
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314rw2yy362xykxlkv3hkag7h6eu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314rw2yy362xykxlkv3hkag7h6eu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
