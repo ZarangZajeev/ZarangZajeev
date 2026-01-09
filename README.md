@@ -3,16 +3,7 @@
 <div>
 
   
-  - 🔭 I’m currently working on [Home-Service](https://github.com/ZarangZajeev/Home_Care.git)
-    
-  
-  - 🌱 I’m currently learning Django Rest Framework  
-    
-  
-  - ❓ Ask me about anything related to Django and related technologies  
-    
-  
-  - ⚡ Fun fact: I use tabs over spaces  
+  Proficient in deploying .NET applications on IIS and .NET Core on Linux using Docker, with hands-on experience in containerized, cross-platform deployments and security implementations. Strong expertise in SQL Server and PostgreSQL, along with full-stack skills in React.js, JavaScript, Python, and Django.
 </div>
 
 <div align="center" flex=" 0 0 50%" max-width=" 50%">
